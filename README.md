@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saloni06-kanyal
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning javascript 
 -⚡ Fun fact: I am always happy 
 
 <!---
